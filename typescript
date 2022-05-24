@@ -1,0 +1,116 @@
+Script started on 2021-04-07 22:19:44-07:00 [TERM="xterm-256color" TTY="/dev/pts/45" COLUMNS="158" LINES="50"]
+[mnaya@ada ~/CS201/A1] $ ./typing_word_game 
+
+
+			TYPING SPEED GAME
+
+Each word will display one at a time and you must enter the word exactly as you see it.
+If you enter the wrong input, you must try again.
+You will be timed for how quickly you can type each word that is displayed.
+Press enter to start...
+
+
+Type out the following words:
+
+lazy:	lazy
+dog:	dog
+the:	the
+fox:	fox
+brown:	brown
+The:	The
+jumps:	jumps
+over:	over
+quick:	quick
+
+Final time: 18 seconds and 254104 microseconds.
+
+Would you like to try again? (y for yes, n for no): n
+
+
+			GOODBYE!
+
+
+[mnaya@ada ~/CS201/A1] $ ./typing_word_game 
+
+
+			TYPING SPEED GAME
+
+Each word will display one at a time and you must enter the word exactly as you see it.
+If you enter the wrong input, you must try again.
+You will be timed for how quickly you can type each word that is displayed.
+Press enter to start...
+
+
+Type out the following words:
+
+dog:	doog
+
+INVALID. Please try again. 
+
+dog:	dogg
+
+INVALID. Please try again. 
+
+dog:	dog
+jumps:	jump
+
+INVALID. Please try again. 
+
+jumps:	jumpss
+
+INVALID. Please try again. 
+
+jumps:	jumps
+over:	overdog
+
+INVALID. Please try again. 
+
+over:	over
+lazy:	lazyman
+
+INVALID. Please try again. 
+
+lazy:	lazy
+brown:	broo wn
+quick:	quick dog
+the:	The
+
+INVALID. Please try again. 
+
+the:	the
+fox:	fox
+The:	the
+
+INVALID. Please try again. 
+
+The:	The
+
+Final time: 79 seconds and 887218 microseconds.
+
+Would you like to try again? (y for yes, n for no): y
+
+
+Type out the following words:
+
+jumps:	jumps
+over:	over
+quick:	quick
+the:	the
+The:	The
+fox:	fox
+brown:	brown
+dog:	dog
+lazy:	lazy
+
+Final time: 18 seconds and 644376 microseconds.
+
+Would you like to try again? (y for yes, n for no): n
+
+
+			GOODBYE!
+
+
+[mnaya@ada ~/CS201/A1] $ exit
+exit
+
+Script done on 2021-04-07 22:22:06-07:00 [COMMAND_EXIT_CODE="0"]
