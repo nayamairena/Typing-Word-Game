@@ -1,10 +1,7 @@
 # Typing Word Game
-
-## CS201
-
-## Naya Mairena
-
-## April, 8, 2021
+# Naya Mairena  
+CS201  
+April, 8, 2021  
 
 To compile the program use the Makefile:  
 `make typing_word_game`
